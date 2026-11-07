@@ -57,3 +57,7 @@ Interactive Power BI dashboard for visualizing sales, revenue, profitability, an
 Objective
 
 To demonstrate practical SQL querying, data analysis, and business intelligence skills through a real-world dataset.
+
+## Power BI Dashboard Preview
+
+![Sales Dashboard](dashboard_preview.png)
