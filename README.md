@@ -60,4 +60,4 @@ To demonstrate practical SQL querying, data analysis, and business intelligence 
 
 ## Power BI Dashboard Preview
 
-![Sales Dashboard](dashboard_preview.png)
+![Sales Dashboard](PowerBI_Dashboard/dashboard_preview.png)
