@@ -44,11 +44,32 @@ Key Analysis Performed
 
 Project Files
 
-* Sales_Analysis_Clean.sql
-* Sales_Analysis_Queries.sql
-* SQL_Verification.sql
-* Sales_Analysis_Summary.txt
-* Sales_Revenue_Analysis_Dashboard.pbix
+Sales-Revenue-Analysis-Superstore/
+│
+├── Dataset/
+│   ├── Superstore.csv
+│   └── README.md
+│
+├── SQL_Analysis/
+│   ├── Sales_Analysis_Clean.sql
+│   ├── Sales_Analysis_Queries.sql
+│   ├── SQL_Verification.sql
+│   └── README.md
+│
+├── Working_Files/
+│   ├── Sales_Analysis_Working.xlsx
+│   └── README.md
+│
+├── PowerBI_Dashboard/
+│   ├── Sales_Revenue_Analysis_Dashboard.pbix
+│   ├── dashboard_preview.png
+│   └── README.md
+│
+├── Results/
+│   ├── Sales_Analysis_Summary.txt
+│   └── README.md
+│
+└── README.md
 
 Dashboard
 
